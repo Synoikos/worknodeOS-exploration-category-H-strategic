@@ -73,7 +73,7 @@ For **each file** in `source-docs/`, create a separate analysis file in `analysi
 - [x] File 1: `README.md` → `analysis/files/README_ANALYSIS.md`
 - [x] File 2: `ELEVATOR_PITCH.MD` → `analysis/files/ELEVATOR_PITCH_ANALYSIS.md`
 - [x] File 3: `WORKNODE_VS_APS.MD` → `analysis/files/WORKNODE_VS_APS_ANALYSIS.md`
-- [ ] File 4: `APPLICATION_LAYER.MD` → `analysis/files/APPLICATION_LAYER_ANALYSIS.md`
+- [x] File 4: `APPLICATION_LAYER.MD` → `analysis/files/APPLICATION_LAYER_ANALYSIS.md`
 - [ ] File 5: `CHECK_THIS.MD` → `analysis/files/CHECK_THIS_ANALYSIS.md`
 - [ ] File 6: `IMPORTANT_GAPS_TO_SOLVE_STILL.MD` → `analysis/files/IMPORTANT_GAPS_ANALYSIS.md`
 - [ ] File 7: `TOOLS_TO_EXPLORE.MD` → `analysis/files/TOOLS_TO_EXPLORE_ANALYSIS.md`
