@@ -86,7 +86,7 @@ For **each file** in `source-docs/`, create a separate analysis file in `analysi
 - [ ] File 9: `TOOLS_TO_EXPLORE.MD` → `analysis/files/TOOLS_TO_EXPLORE_ANALYSIS.md`
 - [ ] File 10: `UI_Implementation.md` → `analysis/files/UI_Implementation_ANALYSIS.md`
 - [ ] File 11: `UI_USER_INTERFACE_TECH.MD` → `analysis/files/UI_USER_INTERFACE_TECH_ANALYSIS.md`
-- [ ] File 12: `WORKNODE_VS_APS.MD` → `analysis/files/WORKNODE_VS_APS_ANALYSIS.md`
+- [x] File 12: `WORKNODE_VS_APS.MD` → `analysis/files/WORKNODE_VS_APS_ANALYSIS.md`
 - [ ] File 13: `layer_4.md` → `analysis/files/layer_4_ANALYSIS.md`
 - [ ] File 14: `other_future.md` → `analysis/files/other_future_ANALYSIS.md`
 - [x] File 15: `rhizomedb_analysis.md` → `analysis/files/rhizomedb_analysis_ANALYSIS.md`
@@ -187,7 +187,7 @@ Examples:
 
 Track sessions working on this category:
 
-- **Session 1** [2025-11-20]: Phase(s): Phase 1 COMPLETE | Files read: 17/17
+- **Session 1** [2025-11-20]: Phase(s): Phase 1 COMPLETE, Phase 2 started (3/17 files analyzed) | Files: IMPORTANT_GAPS, rhizomedb, WORKNODE_VS_APS
 - **Session 2** [Date]: Phase(s): _____ | Files completed: _____
 - **Session 3** [Date]: Phase(s): _____ | Files completed: _____
 
