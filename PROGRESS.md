@@ -70,7 +70,7 @@ For **each file** in `source-docs/`, create a separate analysis file in `analysi
 
 ### Checklist (one per file):
 
-- [ ] File 1: `README.md` → `analysis/files/README_ANALYSIS.md`
+- [x] File 1: `README.md` → `analysis/files/README_ANALYSIS.md` ✅ 2025-11-20
 - [ ] File 2: `ELEVATOR_PITCH.MD` → `analysis/files/ELEVATOR_PITCH_ANALYSIS.md`
 - [ ] File 3: `WORKNODE_VS_APS.MD` → `analysis/files/WORKNODE_VS_APS_ANALYSIS.md`
 - [ ] File 4: `APPLICATION_LAYER.MD` → `analysis/files/APPLICATION_LAYER_ANALYSIS.md`
@@ -182,7 +182,7 @@ Examples:
 
 Track sessions working on this category:
 
-- **Session 1** [Date]: Phase(s): _____ | Files completed: _____
+- **Session 1** [2025-11-20]: Phase(s): Phase 2 start | Files completed: README_ANALYSIS.md (1/17)
 - **Session 2** [Date]: Phase(s): _____ | Files completed: _____
 - **Session 3** [Date]: Phase(s): _____ | Files completed: _____
 
