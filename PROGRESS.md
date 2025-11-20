@@ -89,7 +89,7 @@ For **each file** in `source-docs/`, create a separate analysis file in `analysi
 - [ ] File 12: `WORKNODE_VS_APS.MD` → `analysis/files/WORKNODE_VS_APS_ANALYSIS.md`
 - [ ] File 13: `layer_4.md` → `analysis/files/layer_4_ANALYSIS.md`
 - [ ] File 14: `other_future.md` → `analysis/files/other_future_ANALYSIS.md`
-- [ ] File 15: `rhizomedb_analysis.md` → `analysis/files/rhizomedb_analysis_ANALYSIS.md`
+- [x] File 15: `rhizomedb_analysis.md` → `analysis/files/rhizomedb_analysis_ANALYSIS.md`
 - [ ] File 16: `what_else_to_build.md` → `analysis/files/what_else_to_build_ANALYSIS.md`
 - [ ] File 17: `UI_security_duplicate.md` → `analysis/files/UI_security_duplicate_ANALYSIS.md`
 
